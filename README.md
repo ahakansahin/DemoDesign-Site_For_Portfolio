@@ -1,4 +1,4 @@
-# [News Website](https://siteforportfolio.netlify.app/)
+# [Portfolio Website](https://siteforportfolio.netlify.app/)
 - This site is designed to provide sample template for customers.
 - The codes of this site are written with html, css and javascript. The project includes Font Awesome, Google Fonts and Jquery libraries.
 - The codes belong to me and are free to use.
